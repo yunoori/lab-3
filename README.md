@@ -1,6 +1,3 @@
-# Лабораторная работа 3
-
-Для решения понадобится установить VirtualBox или другие аналоги.
 
 ## Задание
 
@@ -15,18 +12,18 @@
 3. но запретить доступ из машины Б в машину В,
 4. приложить скриншот, на котором видно терминалы всех трёх машин и видно что между машинами есть (или нет) доступа.
 
-### Как успешно сдать работу?
+![1](https://github.com/user-attachments/assets/83c2ddba-e071-40c0-b8bf-89df282eb6f1)
 
-Создать свой репозиторий из шаблона этого. Как это делается - "Use this template" -> "Create a new repository" и сделайте его public. 
+![2](https://github.com/user-attachments/assets/5be7d14c-bd19-41aa-8223-3f60bd4f8b63)
 
-Находясь уже в своем репозитории - создайте новый файл формата .md и там оформляйте отчет. В отчете опишите все шаги которые вы делали, чтобы получить финальный результат работы.
+![4](https://github.com/user-attachments/assets/c79b1b54-9f6d-4d73-aaae-500be2aaf268)
 
-Что вам нужно знать, чтобы успешно защитить работу:
+![5](https://github.com/user-attachments/assets/30594624-a26f-4f2a-9f73-64bf443bf6d4)
 
-Топологии сетей; модель OSI; NAT + зачем нужно, типы; DNS; DHCP + как хосты получают адреса; таблица маршрутизации.
+![6](https://github.com/user-attachments/assets/b117c5e7-444c-4d8b-af9c-88856df2169d)
 
-## Источники
+![7 1](https://github.com/user-attachments/assets/46fb9708-eebe-4349-8c05-e0b1328a540d)
 
-Лекции 4-5.
+![7 2](https://github.com/user-attachments/assets/35a42b88-8256-4595-a537-69b1a2601614)
 
-[Источник где можно найти все](https://google.com)
+![8](https://github.com/user-attachments/assets/75c4eb40-6d0b-43ef-9966-e61f4fd8fe86)
